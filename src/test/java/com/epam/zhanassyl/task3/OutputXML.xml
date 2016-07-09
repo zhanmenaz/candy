@@ -1,0 +1,24 @@
+<?xml version = "1.0" encoding="ISO-8859-1"?>
+<Candy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="Candy.xsd">
+    <CandyInstance id="0" name="Bayan-sulu" energy="9500" type="chocolate" water="true" chocolate="white" >
+        <Ingridient amount="1" unit="milligram">Sugar</Ingridient>
+        <Ingridient amount="10" unit="milligram">Fructose</Ingridient>
+        <Ingridient amount="1" unit="milligrams">Vanilin</Ingridient>
+        <Value amount="3" unit="grams">Protein</Value>
+        <Value amount="4" unit="grams">Fat</Value>
+        <Value amount="5" unit="grams">Carbohydrate</Value>
+        <Production>FirmA</Production>
+    </CandyInstance>
+
+
+    <CandyInstance id="1" name="Rahat" energy="10000" type="chocolate" water="true" chocolate="black" >
+        <Ingridient amount="2" unit="milligram">Sugar</Ingridient>
+        <Ingridient amount="20" unit="milligram">Fructose</Ingridient>
+        <Ingridient amount="2" unit="milligram">Vanilin</Ingridient>
+        <Value amount="1" unit="grams">Protein</Value>
+        <Value amount="2" unit="grams">Fat</Value>
+        <Value amount="3" unit="grams">Carbohydrate</Value>
+        <Production>FirmA</Production>
+    </CandyInstance>
+</Candy>
